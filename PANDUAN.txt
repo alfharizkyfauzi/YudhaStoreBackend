@@ -1,0 +1,21 @@
+http://127.0.0.1:8000/ (link tergantung pas nanti keluar dari servenya)
+
+note: aktifin link backendnya kudu pake terminal masuk ke folder dari cmd
+(contoh : ALFHA@DESKTOP-R8LBOVT MINGW64 ~/Desktop/shaynavue/yudhastore-backend)
+abis itu ketik "php artisan serve" (tanpa tanda kutip") buat dapetin link server localnya
+
+ADMIN
+email : admin@gmail.com
+password : izanagi123
+
+terus import database pake xampp (nyalain apache & mysqlnya) di phpmyadmin, itu ada file sqlnya tinggal bikin database baru (yudhastore) abis itu di import
+
+
+http://192.168.1.7:8080/#/ (link tergantung pas nanti keluar dari servenya)
+kalo udah skrng panggil frontendnya , buka folder frontnya  sama kaya backend cuma beda di commandnya , commandnya "npm run serve" (tanpa tanda kutip")
+
+LINK API nya (Udah gua buat pake API juga)
+https://documenter.getpostman.com/view/11257115/TWDTLJZu
+
+
+Selebihnya ubah ubah sesuai selera aja gan
